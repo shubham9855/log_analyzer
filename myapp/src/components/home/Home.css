@@ -1,0 +1,70 @@
+.main-home-container {
+  background-color: #000a13;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+  /* height: auto; */
+}
+.home-content {
+  height: 700px;
+  width: 900px;
+  background-color: #000a13;
+  /* box-shadow: 2px 2px 12px 0px #dba570; */
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  /* align-items: center; */
+}
+.first-row {
+  /* background-color: #dba570; */
+  width: auto;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 2px 2px 12px 0px #dba570;
+}
+.profiles label {
+  font-size: 20px;
+  font-weight: 900;
+  color: #dba570;
+}
+.profiles select {
+  padding: 10px 10px;
+  width: 250px;
+  border-radius: 50px;
+  margin-left: 15px;
+  /* background-color: #3e3f3f; */
+}
+.Validations label {
+  font-size: 20px;
+  font-weight: 900;
+  color: #dba570;
+}
+.Validations select {
+  padding: 10px 10px;
+  width: 250px;
+  border-radius: 50px;
+  margin-left: 15px;
+}
+.second-row {
+  /* background-color: aquamarine; */
+  width: auto;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 2px 2px 12px 0px #dba570;
+}
+.third-row {
+  background-color: #000a13;
+  width: auto;
+  height: 300px;
+  box-shadow: 2px 2px 12px 0px #dba570;
+}
+.live-logs-heading {
+  color: #dba570;
+  font-size: 25px;
+  font-weight: 900;
+}
